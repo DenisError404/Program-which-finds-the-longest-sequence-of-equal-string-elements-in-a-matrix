@@ -1,0 +1,1 @@
+# Program-which-finds-the-longest-sequence-of-equal-string-elements-in-a-matrix
